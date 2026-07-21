@@ -10,7 +10,15 @@
 
 # 🟢 Welcome to my GitHub
 
-### Building software, creating projects and exploring technology 🚀
+<br>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=C026D3&center=true&vCenter=true&width=900&lines=Flutter+%7C+Dart+Developer;Minecraft+Launcher+Developer;Building+Syleera+Ecosystem;Java+%7C+Python+%7C+Modern+Technology" />
+
+</p>
+
+<br>
 
 </div>
 
@@ -26,20 +34,11 @@ Currently working on **Syleera**, a Minecraft ecosystem including launcher, clie
 
 ---
 
-## 🚀 What I Do
-
-- 🦋 Developing applications with **Flutter & Dart**
-- 🐍 Creating projects with **Python**
-- ☕ Programming with **Java**
-- ⛏️ Building Minecraft-related projects
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,java,kotlin,git,github,cloudflare,idea,androidstudio,vscode,gradle" />
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,java,kotlin" />
 
 </div>
 
@@ -47,20 +46,15 @@ Currently working on **Syleera**, a Minecraft ecosystem including launcher, clie
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+</div>
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle" />
 
 </div>
 
