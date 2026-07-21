@@ -62,7 +62,7 @@ Currently working on **Syleera**, a Minecraft ecosystem including launcher, clie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle" />
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,linux" />
 
 </div>
 
