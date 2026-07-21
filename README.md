@@ -1,85 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:16A34A&height=220&section=header&text=💎%20SobhanA11&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Minecraft%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:16A34A&height=220&section=header&text=💎%20SobhanA11&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&&descAlignY=58&descSize=18" width="98%"/>
 
 </div>
 
-<br> 
-
-<div align="center">
-
-# 🟢 Welcome to my GitHub 👋
-
 <br>
 
-<p align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=C026D3&center=true&vCenter=true&width=900&lines=Flutter+%7C+Dart+Developer;Java+Developer;Minecraft+Client+%26+Launcher+Developer;Minecraft+Server+Developer;Modern+Software+Creator" />
 
-</p>
+</div>
 
-<br>
+---
+
+## 🛠️ Tech Stack | تکنولوژی‌ها
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,python" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,linux,git,github" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-Hi! I'm **SobhanA11** 👋
-
-I'm a developer interested in software development, Minecraft projects, mobile applications and modern technologies.
-
-Currently working on **Syleera**, a Minecraft ecosystem including launcher, client, server and developer tools.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,dart,java,kotlin" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,cloudflare" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,gradle,linux" />
-
-</div>
-
----
-
-## 🌱 Current Project
+## 🌱 Current Project | پروژه فعلی
 
 <div align="center">
 
 # 🟩 Syleera
 
-Minecraft ecosystem focused on:
+A modern minecraft ecosystem focused on:
 
-🎮 Minecraft Launcher
-⚔️ Custom Client
-🌎 Multiplayer Server
-🛠️ And More...
+یک اکوسیستم مدرن ماینکرفت با تمرکز روی:
+
+🎮 Minecraft Launcher | لانچر ماینکرفت  
+⚔️ Custom Client | کلاینت اختصاصی  
+🌎 Multiplayer Server | سرور چندنفره  
+🛠️ Developer Tools | ابزارهای توسعه  
 
 <br>
 
@@ -91,7 +53,17 @@ Minecraft ecosystem focused on:
 
 ---
 
-## 🔗 Connect
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SobhanA11&theme=github_dark" />
+
+</div>
+
+---
+
+## 🔗 Connect | ارتباط
 
 <div align="center">
 
@@ -107,6 +79,6 @@ Minecraft ecosystem focused on:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:84CC16&height=120&section=footer" width="100%" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:84CC16&height=120&section=footer" width="98%" alt="footer banner"/>
 
 </div>
