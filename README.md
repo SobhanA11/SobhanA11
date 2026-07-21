@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=C026D3&center=true&vCenter=true&width=900&lines=Flutter+%7C+Dart+Developer;Minecraft+Launcher+Developer;Building+Syleera+Ecosystem;Java+%7C+Python+%7C+Modern+Technology" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=C026D3&center=true&vCenter=true&width=900&lines=Flutter+%7C+Dart+Developer;Java+Developer;Minecraft+Client+%26+Launcher+Developer;Minecraft+Server+Developer;Modern+Software+Creator" />
 
 </p>
 
