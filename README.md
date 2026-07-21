@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:16A34A&height=220&section=header&text=SobhanA11%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Minecraft%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,100:16A34A&height=220&section=header&text=💎%20SobhanA11&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Minecraft%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 🟢 Welcome to my GitHub
+# 🟢 Welcome to my GitHub 👋
 
 <br>
 
