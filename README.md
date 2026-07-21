@@ -38,7 +38,15 @@ Currently working on **Syleera**, a Minecraft ecosystem including launcher, clie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,dart,java,kotlin" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter" />
 
 </div>
 
@@ -68,9 +76,9 @@ Currently working on **Syleera**, a Minecraft ecosystem including launcher, clie
 
 Minecraft ecosystem focused on:
 
-🎮 Launcher  
-⚔️ Client  
-🌎 Server  
+🎮 Minecraft Launcher
+⚔️ Custom Client
+🌎 Multiplayer Server
 🛠️ And More...
 
 <br>
