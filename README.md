@@ -32,8 +32,6 @@ Currently working on **Syleera**, a Minecraft ecosystem including launcher, clie
 - 🐍 Creating projects with **Python**
 - ☕ Programming with **Java**
 - ⛏️ Building Minecraft-related projects
-- 🌐 Managing websites, domains and infrastructure
-- ⚡ Exploring developer tools and open-source projects
 
 ---
 
