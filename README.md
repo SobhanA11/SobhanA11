@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,python" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,python,bash" />
 
 <div align="center">
 
